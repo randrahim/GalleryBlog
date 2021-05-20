@@ -1,4 +1,4 @@
 # GalleryBlog
 
-I Used HTML / CSS / Bootstrap<br>
+I used HTML / CSS / Bootstrap<br>
 https://randrahim.github.io/GalleryBlogSite/
